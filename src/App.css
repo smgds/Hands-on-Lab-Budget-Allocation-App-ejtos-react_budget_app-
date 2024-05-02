@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+  
+  .currency-container {
+    background-color: #9de6a3;
+    color: #ffffff;
+}
+.currency-dropdown {
+    background-color: #9de6a3;
+    color: #ffffff;
+    border: 0;
+}
+
+.currency-dropdown option {
+    color: #000000;
+}
+
+.currency-dropdown option:hover
+{
+    background-color: white;
+    color: #000000;
+}
